@@ -13,7 +13,6 @@ public class Main {
 
         System.out.println(random1.Name);
 
-
         Student one = new Student();
         Student two = one;
 
