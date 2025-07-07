@@ -7,7 +7,9 @@ public class Main {
         Circle circle = new Circle();
         Triangle triangle = new Triangle();
 
-        shape.Area();
+        Shapes shape1 = new Square();
+
+        shape1.Area();
 
     }
 }
