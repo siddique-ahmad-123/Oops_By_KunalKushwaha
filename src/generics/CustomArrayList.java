@@ -66,7 +66,7 @@ public class CustomArrayList {
         }
         System.out.println(List);
 
-        ArrayList<Integer> List2 = new ArrayList<>(); //this is original array list
+        ArrayList<Integer> List2 = new ArrayList<>(); //this is original array list and primitive cannot be added here in generics
 
 
     }
